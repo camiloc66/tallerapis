@@ -1,0 +1,40 @@
+C:\Users\503\source\repos\Contactos\Contactos\Contactos\bin\Debug\netstandard2.0\Contactos.deps.json
+C:\Users\503\source\repos\Contactos\Contactos\Contactos\bin\Debug\netstandard2.0\Contactos.dll
+C:\Users\503\source\repos\Contactos\Contactos\Contactos\bin\Debug\netstandard2.0\Contactos.pdb
+C:\Users\503\source\repos\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\503\source\repos\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\Views\ContactosPage.xaml.g.cs
+C:\Users\503\source\repos\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\Views\DetalleContatoPage.xaml.g.cs
+C:\Users\503\source\repos\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\Views\IngresoPage.xaml.g.cs
+C:\Users\503\source\repos\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\Contactos.csproj.CoreCompileInputs.cache
+C:\Users\503\source\repos\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\Contactos.AssemblyInfoInputs.cache
+C:\Users\503\source\repos\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\Contactos.AssemblyInfo.cs
+C:\Users\503\source\repos\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\503\source\repos\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\Contactos.dll
+C:\Users\503\source\repos\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\Contactos.pdb
+C:\Contactos\Contactos\Contactos\bin\Debug\netstandard2.0\Contactos.deps.json
+C:\Contactos\Contactos\Contactos\bin\Debug\netstandard2.0\Contactos.dll
+C:\Contactos\Contactos\Contactos\bin\Debug\netstandard2.0\Contactos.pdb
+C:\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\Views\ContactosPage.xaml.g.cs
+C:\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\Views\DetalleContatoPage.xaml.g.cs
+C:\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\Views\IngresoPage.xaml.g.cs
+C:\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\Contactos.csproj.CoreCompileInputs.cache
+C:\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\Contactos.AssemblyInfoInputs.cache
+C:\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\Contactos.AssemblyInfo.cs
+C:\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\Contactos.dll
+C:\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\Contactos.pdb
+C:\Users\Kirlian Cadavid\Downloads\Contactos\Contactos\Contactos\bin\Debug\netstandard2.0\Contactos.deps.json
+C:\Users\Kirlian Cadavid\Downloads\Contactos\Contactos\Contactos\bin\Debug\netstandard2.0\Contactos.dll
+C:\Users\Kirlian Cadavid\Downloads\Contactos\Contactos\Contactos\bin\Debug\netstandard2.0\Contactos.pdb
+C:\Users\Kirlian Cadavid\Downloads\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\Contactos.csprojAssemblyReference.cache
+C:\Users\Kirlian Cadavid\Downloads\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Kirlian Cadavid\Downloads\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\Views\ContactosPage.xaml.g.cs
+C:\Users\Kirlian Cadavid\Downloads\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\Views\DetalleContatoPage.xaml.g.cs
+C:\Users\Kirlian Cadavid\Downloads\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\Views\IngresoPage.xaml.g.cs
+C:\Users\Kirlian Cadavid\Downloads\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\Contactos.csproj.CoreCompileInputs.cache
+C:\Users\Kirlian Cadavid\Downloads\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\Contactos.AssemblyInfoInputs.cache
+C:\Users\Kirlian Cadavid\Downloads\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\Contactos.AssemblyInfo.cs
+C:\Users\Kirlian Cadavid\Downloads\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Kirlian Cadavid\Downloads\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\Contactos.dll
+C:\Users\Kirlian Cadavid\Downloads\Contactos\Contactos\Contactos\obj\Debug\netstandard2.0\Contactos.pdb
